@@ -1,0 +1,203 @@
+@import url(https://fonts.googleapis.com/css?family=Lato);        
+    
+body {
+    background-image: url('Achtergrond.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Lato';
+}
+
+/*         Frontend.Master          */
+
+.PageWrapper {
+    margin-left:auto;
+    margin-right:auto;
+    width:1100px;
+}
+
+header {
+    height: 40px;
+    width: 1100px;
+    background-color: #12a161;    
+}
+
+.classDivHeaderHome { /*Een DIV in de header; niet zichtbaar; klikken => default.aspx*/
+    float:left;
+    width: 200px;
+    height:40px;
+}
+
+.classDivHeaderHlbuttons {  /*Een DIV waarin 2 hyperlinkbuttons: Handleidingen & Melding*/               
+    float:right;
+    margin-top:10px;
+    margin-right: 20px;
+    font-size:18px;    
+    height:40px;
+    vertical-align:central;
+}
+
+.classLinkButton {
+    color:white;
+    text-decoration:none;
+}
+
+.classDivHot {
+    width: 300px;
+    height: 150px;
+    /*background-color: #da3f2b;*/
+    color: white;
+    float: left;    
+    position: absolute;
+    top: 68px;
+    margin-left: 780px;
+    padding: 10px 10px 10px 10px;
+    font-size:12px;
+}
+
+.classDivHot textarea {
+    /*background-color: #da3f2b;*/
+    border:none;
+    width:100%;
+    height:100%;
+    overflow:auto;
+    font-family:'Lato'; 
+    color: white;
+    font-size:14px;
+}
+
+.classDivGeenMelding textarea {
+    background-color: forestgreen;
+    border:none;
+    width:100%;
+    height:100%;
+    overflow:auto;
+    font-family:'Lato'; 
+    color: white;
+    font-size:14px;
+}
+
+.classDivSitemap {
+    width: 1100px;
+    height: 50px;
+    color: #da3f2b;    
+}
+
+.classSidemenu {
+    margin-top: 100px;   
+    width: 210px; 
+    position:absolute;
+    background-color:#12a161; 
+    font-size:16px;    
+}
+
+.classLogo {    
+    margin-top: 20px;
+    float: left;
+}
+
+.classDivMain {
+    width: 720px;
+    float: left;
+    margin-top: 140px;
+    margin-left:80px;  
+    color:#12a161;
+}
+
+
+
+
+/*        Overig            */
+
+.classTexboxMultiline { /*multiline textbox in het meldingsformulier (om de eea vage reden heeft een multiline textbox een eigen opmaak)*/
+    font-family: 'Lato';
+    font-size:14px;
+}
+
+.classMeldinglabels {
+    display: block;    
+}
+
+
+
+
+
+/* De knoppen van de portalen */
+.classDivButton {        
+    font-family:'American Captain Patrius 01';
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    width:130px;
+    height:130px;    
+    text-align: center;
+    color:#12a161;
+}
+
+.classDivButton:hover {    
+    background-color: #12a161;  
+    color:white;
+}
+
+.classImage {    
+    width:80px;
+    height:80px;
+    margin-top:25px;    
+}
+
+
+
+
+
+/* De knoppen van default.aspx */
+
+.classDefaultKnoppen {
+    width: 35%;
+    float: left;
+    margin-right: 40px;
+}
+
+.classDivHoofdknoppenBuiten {
+    background-color: none; 
+    border-color: #12a161; 
+    border-style:solid; 
+    border-width: 20px;
+    height: 450px;
+    width: 210px;
+    float: left;
+    margin-right: 60px;
+}
+
+.classDivHoofdknoppenBinnen {
+    color:white;    
+    background-color: rgba(18, 161, 97, .5);
+    height: 309px;        
+    margin-top:-3px;
+}
+
+.classDivHoofdknoppenTekst {
+    color: white;    
+    font-size: 40px;            
+    padding-top: 130px;
+    padding-left: 10px;
+}
+
+.classHoofdknoppenImage {
+    width: 210px;
+    margin: 0px;    
+}
+
+
+
+
+/*             Handleidingen                */
+
+.frameHandleiding {
+    border:none;
+    width:auto;
+    width: 870px;
+    height:600px;
+}
+
+        
+
+
