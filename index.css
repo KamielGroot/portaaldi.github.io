@@ -27,7 +27,7 @@ header {
     height:40px;
 }
 
-.classDivHeaderHlbuttons {  /*Een DIV waarin 2 hyperlinkbuttons: Handleidingen & Melding*/               
+.classDivHeaderHlbuttons {               
     float:right;
     margin-top:10px;
     margin-right: 20px;
@@ -104,23 +104,6 @@ header {
 }
 
 
-
-
-/*        Overig            */
-
-.classTexboxMultiline { /*multiline textbox in het meldingsformulier (om de eea vage reden heeft een multiline textbox een eigen opmaak)*/
-    font-family: 'Lato';
-    font-size:14px;
-}
-
-.classMeldinglabels {
-    display: block;    
-}
-
-
-
-
-
 /* De knoppen van de portalen */
 .classDivButton {        
     font-family:'American Captain Patrius 01';
@@ -134,7 +117,7 @@ header {
 }
 
 .classDivButton:hover {    
-    background-color: #12a161;  
+    background-color: #00ffff;  
     color:white;
 }
 
