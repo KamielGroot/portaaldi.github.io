@@ -18,7 +18,7 @@ body {
 header {
     height: 40px;
     width: 1100px;
-    background-color: #12a161;    
+    background-color: #33ccff;    
 }
 
 .classDivHeaderHome { /*Een DIV in de header; niet zichtbaar; klikken => default.aspx*/
@@ -86,7 +86,7 @@ header {
     margin-top: 100px;   
     width: 210px; 
     position:absolute;
-    background-color:#12a161; 
+    background-color:#33ccff; 
     font-size:16px;    
 }
 
@@ -100,7 +100,7 @@ header {
     float: left;
     margin-top: 140px;
     margin-left:80px;  
-    color:#12a161;
+    color:#33ccff;
 }
 
 
@@ -113,7 +113,7 @@ header {
     width:130px;
     height:130px;    
     text-align: center;
-    color:#12a161;
+    color:#33ccff;
 }
 
 .classDivButton:hover {    
@@ -141,7 +141,7 @@ header {
 
 .classDivHoofdknoppenBuiten {
     background-color: none; 
-    border-color: #12a161; 
+    border-color: #33ccff; 
     border-style:solid; 
     border-width: 20px;
     height: 450px;
