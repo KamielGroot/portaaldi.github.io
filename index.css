@@ -21,13 +21,13 @@ header {
     background-color: #12a161;    
 }
 
-.classDivHeaderHome { /*Een DIV in de header; niet zichtbaar; klikken => default.aspx*/
+.classDivHeaderHome { /*Een DIV in de header; niet zichtbaar; klikken => index.html*/
     float:left;
     width: 200px;
     height:40px;
 }
 
-.classDivHeaderHlbuttons {  /*Een DIV waarin 2 hyperlinkbuttons: Handleidingen & Melding*/               
+.classDivHeaderHlbuttons {  /*Een DIV waarin 2 hyperlinkbuttons: voor inschrijving en helpdesk*/               
     float:right;
     margin-top:10px;
     margin-right: 20px;
@@ -108,19 +108,6 @@ header {
 
 /*        Overig            */
 
-.classTexboxMultiline { /*multiline textbox in het meldingsformulier (om de eea vage reden heeft een multiline textbox een eigen opmaak)*/
-    font-family: 'Lato';
-    font-size:14px;
-}
-
-.classMeldinglabels {
-    display: block;    
-}
-
-
-
-
-
 /* De knoppen van de portalen */
 .classDivButton {        
     font-family:'American Captain Patrius 01';
@@ -148,7 +135,7 @@ header {
 
 
 
-/* De knoppen van default.aspx */
+/* De knoppen van index.html */
 
 .classDefaultKnoppen {
     width: 35%;
@@ -184,18 +171,6 @@ header {
 .classHoofdknoppenImage {
     width: 210px;
     margin: 0px;    
-}
-
-
-
-
-/*             Handleidingen                */
-
-.frameHandleiding {
-    border:none;
-    width:auto;
-    width: 870px;
-    height:600px;
 }
 
         
