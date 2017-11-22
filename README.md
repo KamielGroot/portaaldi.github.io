@@ -1,4 +1,6 @@
 # portaaldi.github.io
+Project is in Alpha!
+
 This repository is copyrighted if you clone this you will get a copyright claim!
 Please don't clone this repository without permission.
 If you want permission please contact: info@coderclub.nl with subject: Github: request perms portaaldi.github.io
