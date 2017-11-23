@@ -1,4 +1,4 @@
-# portaaldi.github.io
+# Webportal Digital Inspiration
 Project is in Alpha!
 
 This repository is copyrighted if you clone this you will get a copyright claim!
