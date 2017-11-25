@@ -7,9 +7,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     font-family: 'Lato';
-}
-
-/*         Frontend.Master          */
+}   
 
 .PageWrapper {
     margin-left:auto;
@@ -23,13 +21,13 @@ header {
     background-color: #12a161;    
 }
 
-.classDivHeaderHome { /*Een DIV in de header; niet zichtbaar; klikken => index.html*/
+.classDivHeaderHome {
     float:left;
     width: 200px;
     height:40px;
 }
 
-.classDivHeaderHlbuttons {  /*Een DIV waarin 2 hyperlinkbuttons: voor inschrijving op homepage en helpdesk*/               
+.classDivHeaderHlbuttons {           
     float:right;
     margin-top:10px;
     margin-right: 20px;
@@ -46,7 +44,7 @@ header {
 .classDivHot {
     width: 300px;
     height: 150px;
-    /*background-color: #da3f2b;*/
+    background-color: #da3f2b;
     color: white;
     float: left;    
     position: absolute;
@@ -57,7 +55,7 @@ header {
 }
 
 .classDivHot textarea {
-    /*background-color: #da3f2b;*/
+    background-color: #da3f2b;
     border:none;
     width:100%;
     height:100%;
@@ -106,11 +104,6 @@ header {
 }
 
 
-
-
-/*        Overig            */
-
-/* De knoppen van de portalen */
 .classDivButton {        
     font-family:'American Captain Patrius 01';
     float: left;
@@ -133,11 +126,6 @@ header {
     margin-top:25px;    
 }
 
-
-
-
-
-/* De knoppen van index.html */
 
 .classDefaultKnoppen {
     width: 35%;
