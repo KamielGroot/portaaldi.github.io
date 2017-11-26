@@ -11,4 +11,4 @@ This is a webportal for a schoolproject!
 If you want to see the site in working goto here: https://portaaldi.github.io
 Note:
 The website is fully Dutch! 
-You can't login in the most websites in the portal!
+You can't login in the most websites in the webportal!
